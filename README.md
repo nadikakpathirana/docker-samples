@@ -7,13 +7,15 @@ This repository contains a collection of Dockerfile templates and related config
 ## Key Features
   - Multi-stage build for optimal image size
   - Non-root user for enhanced security
-  - Built-in health check
   - Configurable environment settings
 
 ## Templates Available
 
 ### .NET Project Dockerfile Templates
 - **Monolithic**
+
+### Others
+- **Jenkins**
 
 ## How to Use
 
